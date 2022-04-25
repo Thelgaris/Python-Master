@@ -4,7 +4,7 @@
 #Hint: You can resolve this exercise either importing the math module or without it 
 def apple_sharing(n,k):
   
-  return ("Apples for each student " + str(k//n), "Apples in the basket " + str(k%n))
+  return None
  
     
 
